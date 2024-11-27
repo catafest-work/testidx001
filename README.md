@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+## NOTE:
+
+* 26.11.2024 : I tried to use cypress on the IDX , not works many libs missing and some issue between online cypress tests and online IDX editor.
+
 ## Getting Started
 
 First, run the development server:
